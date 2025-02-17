@@ -9,3 +9,5 @@ The training process had wonky device handling in the case of a two GPU training
 
 The testing code had some weird way of handling the models and I am not sure of the horrenodus results are because of this. I did do some changes to it, at first you were comparing
 the finetuned model with itself and not the original model which is obviously weird? 
+
+The "näyttökuva" files are screenshots which contain the test results
